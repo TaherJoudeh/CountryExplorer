@@ -50,7 +50,7 @@ brew install cmake git
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/CountryExplorer.git
+git clone https://github.com/TaherJoudeh/CountryExplorer
 cd CountryExplorer
 
 # Linux / macOS
